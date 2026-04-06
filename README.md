@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @walt-neb
-- 📫 How to reach me walt@strawberryrobotics.com
+- 👋 Hi, I’m @walt-sbr
+- 📫 How to reach me walter@strawberryrobotics.com
 
 <!---
-walt-neb/walt-neb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+walt-sbr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
